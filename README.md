@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TheAlmostGenius also known online as DarkestSoul1992
+- 👋 Hi, I’m @DarkestSoul1992
 - 👀 I’m interested in ... Programming and Electrical design.
 - 🌱 I’m currently learning ... How to just be me.
 - 🏢 I’m looking to collaborate on ... Projects involving C, C++, C#, 6502 or x86 Assembly and Electrical Engineering designs.
